@@ -23,5 +23,6 @@ However, the management noticed that they do not get enough insights to make qui
   ## FINDINGS AND SOLUTIONS:
   - FINDINGS: contribution %, Demand for unique products,gross sales over the time period ,top customers ,quartely sales amount ,top performing segments.
   - SOLUTIONS: To improve sales offer loyalty rewards ,limited offers on high demand products,enhanced customer service,gift cards,student discounts,bundled deals to attarct customers and increase sales.
+
 [Presentation link](https://www.canva.com/design/DAGGO-TkdSE/74hFfmMfCQbGE7zZS-DjCw/view?utm_content=DAGGO-TkdSE&utm_campaign=designshare&utm_medium=link&utm_source=editor
 )
