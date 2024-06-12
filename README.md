@@ -1,4 +1,4 @@
-# Ad_Hoc_Insights-Cosumer-domain         presentation link
+# Ad_Hoc_Insights-Cosumer-domain       
 
 Domain:  Consumer Goods | Function: Executive Management
 
